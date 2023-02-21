@@ -676,6 +676,7 @@ main { overflow-x: hidden; }
 .project-card {
   position: relative;
   overflow: hidden;
+  transition: 1s;
   border-radius: var(--radius-12);
   box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
 }
