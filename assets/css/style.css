@@ -332,7 +332,7 @@ body.active { overflow: hidden; }
 }
 
 .navbar-actions select {
-  color: var(--color-primary);
+  /* color: var(--color-primary); */
   width: 45px;
 }
 
@@ -465,7 +465,7 @@ body.active { overflow: hidden; }
 main { overflow-x: hidden; }
 
 .hero {
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -557,7 +557,7 @@ main { overflow-x: hidden; }
  * #ABOUT
 \*-----------------------------------*/
 
-.about { padding-block: var(--section-padding); }
+/* .about { padding-block: var(--section-padding); } */
 
 .about-banner {
   max-width: 400px;
@@ -669,7 +669,7 @@ main { overflow-x: hidden; }
  * #PROJECT
 \*-----------------------------------*/
 
-.project { padding-block: var(--section-padding); }
+/* .project { padding-block: var(--section-padding); } */
 
 .project-list > li { margin-bottom: 25px; }
 
